@@ -360,9 +360,9 @@
     <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Messaggi cloud</string>
     <string name="mx_enable">Abilita messaggi cloud</string>
-    <string name="mx_warning_notice">An SMS will be sent to reactivate Cloud Messaging for your current SIM card. You will incur regular charges from your carrier.</string>
-    <string name="mx_int_warning_notice">An international SMS will be sent to reactivate Cloud Messaging for your current SIM card. You will incur international charges from your carrier.</string>
-    <string name="mx_btn_enable">Activate</string>    
+    <string name="mx_warning_notice">Verrà inviato un SMS per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe del tuo operatore.</string>
+    <string name="mx_int_warning_notice">Verrà inviato un SMS internazionale per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe internazionali del tuo operatore.</string>
+    <string name="mx_btn_enable">Attivare</string>    
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>
     <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
@@ -375,10 +375,10 @@
     <string name="msg_type_hint_sms">Messaggio di testo</string>
     <string name="msg_type_hint_mms">Messaggio Multimediale</string>
     <string name="msg_type_hint_mx">Messaggio Cloud</string>
-    <string name="mx_reactivate">Reactivate Cloud Messaging</string>
-    <string name="mx_activate_error_title">"Couldn't activate SIM card"</string>
-    <string name="mx_activate_error_sim_change">"Looks like you've switched SIM cards. To activate Cloud Messaging, your device needs to send an SMS to Xiaomi's servers."</string>
-    <string name="mx_activate_error_malformed_info">You need to reactivate Cloud Messaging for this SIM card.</string>
+    <string name="mx_reactivate">Riattiva Messaggi Cloud</string>
+    <string name="mx_activate_error_title">"Non posso attivare la SIM card"</string>
+    <string name="mx_activate_error_sim_change">"Sembra tu abbia cambiato la SIM cards. Per attivare i Messaggi Cloud devi inviare un SMS dal tuo dispositivo ai servers di Xiaomi."</string>
+    <string name="mx_activate_error_malformed_info">E' necessaria la riattivazione dei Messaggi Cloud per questa SIM card.</string>
     <string name="mx_activate_error_server">"Couldn't activate SIM card"</string>
     <string name="mx_activate_hint_sim_change">An SMS will be sent to reactivate Cloud Messaging for your current SIM card. You will incur regular charges from your carrier.</string>
     <string name="mx_activate_int_hint_sim_change">An international SMS will be sent to reactivate Cloud Messaging for your current SIM card. You will incur international charges from your carrier.</string>

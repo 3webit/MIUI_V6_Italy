@@ -377,7 +377,7 @@
     <string name="msg_type_hint_mx">Messaggio Cloud</string>
     <string name="mx_reactivate">Riattiva Messaggi Cloud</string>
     <string name="mx_activate_error_title">Non posso attivare la SIM card</string>
-    <string name="mx_activate_error_sim_change">Sembra tu abbia cambiato la SIM cards. Per attivare i Messaggi Cloud devi inviare un SMS dal tuo dispositivo ai servers di Xiaomi.</string>
+    <string name="mx_activate_error_sim_change">Sembra tu abbia cambiato la SIM card. Per attivare i Messaggi Cloud devi inviare un SMS dal tuo dispositivo ai servers di Xiaomi.</string>
     <string name="mx_activate_error_malformed_info">"E' necessaria la riattivazione dei Messaggi Cloud per questa SIM card."</string>
     <string name="mx_activate_error_server">Non posso attivare la SIM card</string>
     <string name="mx_activate_hint_sim_change">Verrà inviato un SMS per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe del tuo operatore.</string>
@@ -385,7 +385,7 @@
     <string name="mx_activate_hint_malformed_info">Verrà inviato un SMS per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe del tuo operatore.</string>
     <string name="mx_activate_int_hint_malformed_info">Verrà inviato un SMS internazionale per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe internazionali del tuo operatore.</string>
     <string name="mx_activate_hint_server">Verrà inviato un SMS per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe del tuo operatore.</string>
-    <string name="mx_activate_int_hint_server">Verrà inviato un SMS internazionale per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe internazionali del tuo operatore.</string>>
+    <string name="mx_activate_int_hint_server">Verrà inviato un SMS internazionale per riattivare i Messaggi Cloud per la tua SIM card corrente. Potresti sostenere dei costi dovuti alle tariffe internazionali del tuo operatore.</string>
     <string name="need_download">Sincronizzazione in corso...</string>
     <string name="found_wild_messages_title">Scarica Messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite MiCloud, vuoi scaricarli ?</string>
@@ -395,7 +395,7 @@
     <string name="loading_all_messages">Caricamento di tutti i messaggi...</string>
     <string name="mx_online">In linea</string>
     <string name="mx_offline">Non in linea</string>
-    <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, potrebbero essere applicati dei costi dal tuo operatore. Continuare?"</string>
+    <string name="mx_enable_popup_msg">Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, potrebbero essere applicati dei costi dal tuo operatore. Continuare?</string>
     <string name="mx_enable_int_popup_msg">Cloud Messaging consente di inviare e ricevere messaggi con chiunque altro utilizzi MIUI. Le tariffe applicate sono quelle del tuo piano dati a meno che non si è connessi con una rete WLAN.</string>
     <string name="mx_activation_done">Cloud Messaging attivato</string>
     <string name="mx_activate_popup_msg">Cloud Messaging consente di inviare e ricevere messaggi con chiunque altro utilizzi MIUI. Le tariffe applicate sono quelle del tuo piano dati a meno che non si è connessi con una rete WLAN.</string>

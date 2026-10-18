@@ -1,7 +1,0 @@
-(async(N)=>{const sl=ms=>new Promise(r=>setTimeout(r,ms));window.__pick=null;const oc=HTMLInputElement.prototype.click;HTMLInputElement.prototype.click=function(){if(this.type==='file'){window.__pick=this;return}return oc.call(this)};
-const it=[...document.querySelectorAll('tp-yt-paper-item')].find(b=>b.offsetParent&&b.innerText.trim()==='Carica file');if(!it){HTMLInputElement.prototype.click=oc;return 'no menu'}it.click();await sl(1500);
-const d=[...document.querySelectorAll('ytcp-dialog')].find(x=>x.offsetParent!==null&&/indicatori temporali/.test(x.innerText));if(d){[...d.querySelectorAll('tp-yt-paper-radio-button')].find(x=>/^Con indicatori/.test(x.innerText.trim())).click();await sl(300);[...d.querySelectorAll('ytcp-button')].find(x=>x.innerText.trim()==='Continua').click();await sl(1500)}
-HTMLInputElement.prototype.click=oc;const inp=window.__pick;if(!inp)return 'no input';
-const txt=await (await fetch('https://raw.githubusercontent.com/3webit/MIUI_V6_Italy/tracesyo-youtube-tmp/s'+N+'.srt')).text();const dt=new DataTransfer();dt.items.add(new File([txt],'tracesyo-'+N+'.it.srt',{type:'application/x-subrip'}));inp.files=dt.files;inp.dispatchEvent(new Event('change',{bubbles:true}));
-const want=txt.split('\n')[2].trim();let ta=[];for(let i=0;i<20;i++){await sl(700);ta=[...document.querySelectorAll('textarea')].map(t=>t.value.trim()).filter(Boolean);if(ta[0]===want)break}
-return {N,ok:ta[0]===want,first:ta[0]&&ta[0].slice(0,40)}})

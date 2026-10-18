@@ -1,0 +1,232 @@
+1
+00:00:00,500 --> 00:00:04,540
+In questo video carichiamo gli ingredienti, cioè le materie prime.
+
+2
+00:00:05,040 --> 00:00:14,950
+Vediamo l'elenco con le sue segnalazioni colorate, il catalogo da cui copiare una scheda, i valori nutrizionali, i quattordici allergeni, i surgelati e i semilavorati.
+
+3
+00:00:15,540 --> 00:00:17,540
+Sono i dati da cui nascono le etichette.
+
+4
+00:00:21,767 --> 00:00:24,407
+Nel gruppo anagrafiche apri «Ingredienti».
+
+5
+00:00:24,867 --> 00:00:33,327
+Per ogni materia prima vedi il codice, la denominazione, la categoria, gli allergeni, quanto hai caricato, la giacenza e i lotti attivi.
+
+6
+00:00:33,327 --> 00:00:36,167
+Il colore del nome ti avvisa a colpo d'occhio.
+
+7
+00:00:36,407 --> 00:00:41,187
+In arancione ci sono gli ingredienti con almeno un allergene, come la farina o il burro.
+
+8
+00:00:41,547 --> 00:00:45,647
+In azzurro, con un asterisco accanto, ci sono i surgelati, come le fragole.
+
+9
+00:00:46,047 --> 00:00:50,687
+Se un surgelato contiene anche un allergene, vince l'arancione, ma l'asterisco resta.
+
+10
+00:00:51,007 --> 00:00:55,967
+Puoi cercare per nome, codice o categoria, e filtrare per categoria e per stato.
+
+11
+00:00:56,387 --> 00:00:59,547
+Un clic sulla giacenza apre i movimenti di quell'ingrediente.
+
+12
+00:00:59,547 --> 00:01:09,407
+Con «Stampa libro ingredienti» ottieni un pi di effe di tutte le materie prime attive, con allergeni e fornitore: è il registro da mostrare in caso di controllo.
+
+13
+00:01:13,400 --> 00:01:15,400
+Non serve scrivere ogni scheda da zero.
+
+14
+00:01:15,800 --> 00:01:17,680
+Premi «Cerca nel catalogo».
+
+15
+00:01:17,820 --> 00:01:22,660
+Il catalogo raccoglie migliaia di materie prime di riferimento, prese da Open Food Facts.
+
+16
+00:01:23,100 --> 00:01:25,960
+Scrivi almeno due lettere, per esempio pistacchio.
+
+17
+00:01:26,360 --> 00:01:28,660
+Ogni voce mostra gli allergeni indicati.
+
+18
+00:01:29,140 --> 00:01:34,860
+Leggi bene l'avviso in alto: sono indicativi, perché lo stesso articolo cambia da un produttore all'altro.
+
+19
+00:01:35,140 --> 00:01:38,320
+Vanno sempre verificati sulla scheda tecnica del tuo fornitore.
+
+20
+00:01:38,740 --> 00:01:40,880
+Premi «Aggiungi alle mie materie prime».
+
+21
+00:01:41,380 --> 00:01:46,460
+Si apre la scheda di un nuovo ingrediente, già compilata con il nome, gli allergeni e la categoria.
+
+22
+00:01:46,900 --> 00:01:49,760
+La scheda copiata è tua: puoi cambiarla liberamente.
+
+23
+00:01:50,180 --> 00:01:58,240
+Lo stesso succede dalla scheda vuota: mentre scrivi la denominazione compaiono i suggerimenti del catalogo, e quelli già tuoi, per non creare doppioni.
+
+24
+00:02:01,900 --> 00:02:04,220
+Completa ora i «Dati principali».
+
+25
+00:02:04,580 --> 00:02:07,920
+Il «Codice interno» è facoltativo, ma non può ripetersi.
+
+26
+00:02:08,240 --> 00:02:10,460
+Nel «Marchio» scegli una voce della lista.
+
+27
+00:02:10,900 --> 00:02:16,320
+Se manca, premi il più accanto all'etichetta, scrivi il nome e premi «Crea e seleziona».
+
+28
+00:02:16,700 --> 00:02:20,940
+Poi scegli l'«Unità di misura», che è obbligatoria, e il «Fornitore abituale».
+
+29
+00:02:21,320 --> 00:02:26,820
+La «Shelf life», in giorni, serve a calcolare la scadenza di un lotto quando il fornitore non la indica.
+
+30
+00:02:27,180 --> 00:02:29,240
+Scrivi l'«Origine» e la «Conservazione».
+
+31
+00:02:29,240 --> 00:02:36,760
+Nel riquadro «Costo e IVA» indichi il costo per l'unità scelta sopra e l'aliquota: quattro, dieci o ventidue per cento.
+
+32
+00:02:36,960 --> 00:02:40,280
+Sono valori indicativi, per dare un valore alle ricette.
+
+33
+00:02:40,560 --> 00:02:50,520
+In fondo alla pagina ci sono le «Note» e la casella «Ingrediente attivo»: come per i fornitori, un ingrediente con lotti collegati non si elimina, si disattiva.
+
+34
+00:02:54,700 --> 00:02:59,120
+Sotto ci sono i «Valori nutrizionali», per cento grammi o cento millilitri.
+
+35
+00:02:59,120 --> 00:03:04,980
+Se il nome corrisponde senza dubbi a un alimento delle tabelle CREA, Tracesyo li compila da solo.
+
+36
+00:03:05,480 --> 00:03:07,600
+Altrimenti ti propone le voci più vicine.
+
+37
+00:03:08,080 --> 00:03:09,940
+Qui ha scelto il pistacchio di Bronte.
+
+38
+00:03:10,400 --> 00:03:12,460
+Il nostro però è un pistacchio generico.
+
+39
+00:03:12,900 --> 00:03:18,080
+Nel campo «Usa un'altra voce CREA» scrivi pistacchi e scegli la voce giusta.
+
+40
+00:03:18,480 --> 00:03:24,480
+Il riquadro azzurro dice da dove vengono i valori, e quali eventualmente mancano e vanno completati a mano.
+
+41
+00:03:24,920 --> 00:03:29,960
+Sono indicativi: confrontali con la scheda tecnica del fornitore e correggili quando serve.
+
+42
+00:03:30,400 --> 00:03:34,320
+Con «Togli questi valori» li cancelli e compili tutto a mano.
+
+43
+00:03:34,700 --> 00:03:37,800
+Da questi numeri nasce la tabella nutrizionale dei prodotti.
+
+44
+00:03:41,900 --> 00:03:58,920
+Il riquadro «Allergeni» elenca i quattordici allergeni del regolamento europeo: cereali con glutine, crostacei, uova, pesce, arachidi, soia, latte, frutta a guscio, sedano, senape, sesamo, solfiti, lupini e molluschi.
+
+45
+00:03:58,920 --> 00:04:00,940
+Spunta tutti quelli presenti.
+
+46
+00:04:01,320 --> 00:04:06,260
+Gli allergeni dell'ingrediente passano da soli ai prodotti che lo contengono e alle loro etichette.
+
+47
+00:04:06,680 --> 00:04:08,560
+Un errore qui finisce sul banco.
+
+48
+00:04:08,940 --> 00:04:10,340
+Torna alla «Conservazione».
+
+49
+00:04:10,780 --> 00:04:18,620
+Spunta «Surgelato» per le materie prime da tenere a meno diciotto gradi: l'elenco te le segnala, così non perdi di vista la catena del freddo.
+
+50
+00:04:18,960 --> 00:04:23,040
+Spunta «Semilavorato» se l'ingrediente è a sua volta composto.
+
+51
+00:04:23,300 --> 00:04:27,540
+Si abilita la «Composizione», dove scrivi i suoi ingredienti in ordine di peso.
+
+52
+00:04:27,540 --> 00:04:29,440
+Premi «Crea ingrediente».
+
+53
+00:04:29,440 --> 00:04:33,500
+Nella scheda vedi la giacenza, i lotti e i prodotti che lo usano.
+
+54
+00:04:33,840 --> 00:04:36,080
+Si riempiranno con le fatture e le ricette.
+
+55
+00:04:37,800 --> 00:04:38,440
+Ricapitoliamo.
+
+56
+00:04:38,860 --> 00:04:49,740
+Sai leggere le segnalazioni dell'elenco, copiare una materia prima dal catalogo, completare la scheda, controllare i valori nutrizionali e indicare allergeni, surgelati e semilavorati.
+
+57
+00:04:50,060 --> 00:04:56,540
+Nel prossimo video creiamo i prodotti, con le loro ricette: gli allergeni che hai appena indicato li seguiranno da soli.
+
+58
+00:04:56,800 --> 00:04:57,420
+Ci vediamo lì.
+

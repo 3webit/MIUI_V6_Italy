@@ -1,0 +1,296 @@
+1
+00:00:00,500 --> 00:00:03,540
+In questo video vediamo il controllo degli infestanti.
+
+2
+00:00:03,920 --> 00:00:13,280
+Inserisci il contratto con la ditta, metti i punti di monitoraggio sulla planimetria, registri le visite con il report e segnali un avvistamento dal telefono, con la foto.
+
+3
+00:00:17,370 --> 00:00:20,090
+Nel gruppo autocontrollo apri «Infestanti».
+
+4
+00:00:20,490 --> 00:00:24,850
+È la panoramica: la ditta, l'ultima visita e la prossima visita attesa.
+
+5
+00:00:25,190 --> 00:00:26,410
+Prima serve la ditta.
+
+6
+00:00:26,790 --> 00:00:32,710
+La aggiungi nelle impostazioni HACCP, alla scheda «Ditte di servizio», con il tipo disinfestazione.
+
+7
+00:00:32,710 --> 00:00:34,510
+Poi premi «Contratti».
+
+8
+00:00:34,750 --> 00:00:37,430
+Qui c'è già il contratto con Disinfestazioni Sicure.
+
+9
+00:00:37,730 --> 00:00:39,830
+Premi «Modifica»: ecco i campi.
+
+10
+00:00:40,130 --> 00:00:45,310
+Scegli la ditta, scrivi il numero, l'inizio, la fine e le visite all'anno: qui otto.
+
+11
+00:00:45,730 --> 00:00:51,970
+Spunta gli infestanti coperti: roditori, insetti striscianti, insetti volanti, insetti delle derrate.
+
+12
+00:00:52,230 --> 00:00:53,710
+Premi «Salva contratto».
+
+13
+00:00:53,970 --> 00:00:59,130
+Dalle visite all'anno Tracesyo calcola quando aspettarti la prossima, e ti avvisa se non arriva.
+
+14
+00:00:59,370 --> 00:01:02,150
+Ti avvisa anche trenta giorni prima che il contratto scada.
+
+15
+00:01:02,150 --> 00:01:06,910
+Con «Allega» carichi il contratto firmato e il piano di monitoraggio della ditta.
+
+16
+00:01:10,970 --> 00:01:11,970
+Ora la planimetria.
+
+17
+00:01:12,330 --> 00:01:14,690
+Torna alla panoramica e premi «Planimetrie».
+
+18
+00:01:15,030 --> 00:01:19,490
+Per crearne una bastano un nome, la data da cui vale e un'immagine della pianta.
+
+19
+00:01:19,810 --> 00:01:20,810
+Apri piano terra.
+
+20
+00:01:21,130 --> 00:01:27,300
+I punti sono già sulla pianta: ognuno mostra il suo codice e la sigla dell'ultimo esito, spiegata nella legenda.
+
+21
+00:01:27,690 --> 00:01:28,650
+Aggiungiamo un'esca.
+
+22
+00:01:28,950 --> 00:01:32,820
+Nel riquadro «Nuovo punto» scrivi il codice: erre zero sette.
+
+23
+00:01:33,230 --> 00:01:38,290
+Il tipo è esca roditori; come posizione scrivi: accanto alla porta del cortile.
+
+24
+00:01:38,700 --> 00:01:43,150
+Premi «Posiziona sulla planimetria», poi fai clic sulla pianta, nel punto giusto.
+
+25
+00:01:43,450 --> 00:01:45,590
+Un clic su un punto ne mostra lo storico.
+
+26
+00:01:45,870 --> 00:01:51,030
+Con «Sposta» e «Rimuovi» lo aggiorni: un punto rimosso resta nelle visite passate.
+
+27
+00:01:51,370 --> 00:01:58,190
+Se la ditta cambia la disposizione, crea una nuova revisione: i punti vengono ricopiati e la pianta vecchia resta consultabile.
+
+28
+00:01:58,550 --> 00:02:01,470
+«Stampa con legenda» ti dà la planimetria da appendere.
+
+29
+00:02:05,470 --> 00:02:07,710
+Quando passa il tecnico, registri la visita.
+
+30
+00:02:07,710 --> 00:02:10,470
+Dalla panoramica premi «Registra visita».
+
+31
+00:02:10,690 --> 00:02:12,750
+Ditta e contratto sono già proposti.
+
+32
+00:02:13,070 --> 00:02:21,390
+Scegli il tipo, ordinaria o straordinaria, e copia dal report il tecnico, il numero del report, le raccomandazioni e i biocidi usati.
+
+33
+00:02:21,710 --> 00:02:27,720
+In «Esito della visita» scegli attività riscontrata: Tracesyo propone subito una non conformità.
+
+34
+00:02:28,090 --> 00:02:32,010
+Sotto, in «Esiti per punto», tutti i punti partono da ok.
+
+35
+00:02:32,310 --> 00:02:33,850
+Cambi solo quelli con attività.
+
+36
+00:02:34,190 --> 00:02:37,010
+Su erre zero tre scegli «Esca consumata».
+
+37
+00:02:37,010 --> 00:02:44,010
+Su elle zero uno, la lampada del confezionamento, scegli «Catture», scrivi quattro e la specie: mosca.
+
+38
+00:02:44,290 --> 00:02:48,330
+Da tre catture in su per punto, la non conformità è sempre proposta.
+
+39
+00:02:48,850 --> 00:02:51,250
+Scegli l'azione e scrivi cosa è stato fatto.
+
+40
+00:02:51,970 --> 00:02:56,350
+Se l'esito è un'infestazione, invece, la non conformità è obbligatoria.
+
+41
+00:02:56,910 --> 00:03:00,290
+Allega il report della ditta e premi «Registra visita».
+
+42
+00:03:04,470 --> 00:03:09,170
+Ecco la scheda della visita: i dettagli, i documenti e gli esiti per punto.
+
+43
+00:03:09,690 --> 00:03:13,790
+Con «Visite» trovi l'elenco dell'anno, con l'esito di ogni visita.
+
+44
+00:03:14,370 --> 00:03:16,490
+Se manca il report, è segnato in rosso.
+
+45
+00:03:17,090 --> 00:03:22,430
+Apri la visita straordinaria di settembre: il report manca, e in alto c'è un avviso giallo.
+
+46
+00:03:22,950 --> 00:03:25,630
+Lo carichi anche adesso, con «Allega report».
+
+47
+00:03:26,390 --> 00:03:29,130
+Le correzioni seguono le regole degli altri registri.
+
+48
+00:03:29,670 --> 00:03:34,390
+Chi ha registrato la visita corregge i testi in giornata, con «Correggi i testi».
+
+49
+00:03:34,930 --> 00:03:38,170
+Per cambiare gli esiti serve «Rettifica», con il motivo.
+
+50
+00:03:38,730 --> 00:03:42,610
+Anche «Annulla» chiede un motivo, e la visita resta a registro.
+
+51
+00:03:43,110 --> 00:03:49,350
+Torna sulla planimetria: erre zero tre ed elle zero uno mostrano ora la sigla del nuovo esito.
+
+52
+00:03:53,670 --> 00:03:57,970
+Tra una visita e l'altra, chi vede un infestante lo segnala subito, dal telefono.
+
+53
+00:03:58,510 --> 00:04:00,870
+Nel menu premi «Segnala avvistamento».
+
+54
+00:04:01,550 --> 00:04:05,250
+In «Cosa hai visto» scegli la specie, per esempio blatta.
+
+55
+00:04:05,750 --> 00:04:07,530
+In «Dove» scegli l'area.
+
+56
+00:04:08,150 --> 00:04:10,150
+Data e ora sono già quelle di adesso.
+
+57
+00:04:10,150 --> 00:04:14,670
+Nella descrizione scrivi cosa hai visto e dove, con parole semplici.
+
+58
+00:04:15,230 --> 00:04:19,470
+In «Foto» il telefono apre la fotocamera: scatta e conferma.
+
+59
+00:04:20,050 --> 00:04:27,470
+Ogni avvistamento apre una non conformità, con gravità alta e un'azione già proposta: intervento straordinario della ditta.
+
+60
+00:04:28,110 --> 00:04:33,070
+Tu scrivi cosa hai fatto, per esempio: chiamata la ditta, zona pulita e controllata.
+
+61
+00:04:33,590 --> 00:04:35,470
+Premi «Registra avvistamento».
+
+62
+00:04:36,050 --> 00:04:41,130
+La segnalazione compare nell'elenco con la foto, la tua firma e il numero della non conformità.
+
+63
+00:04:41,570 --> 00:04:43,670
+Il titolare la ritrova nella panoramica.
+
+64
+00:04:47,903 --> 00:04:49,043
+Torna alla panoramica.
+
+65
+00:04:49,603 --> 00:04:53,743
+In alto ci sono la ditta, l'ultima visita ordinaria e la prossima attesa.
+
+66
+00:04:54,423 --> 00:04:58,623
+Se la data passa senza visita, diventa rossa e la visita risulta mancante.
+
+67
+00:04:59,243 --> 00:05:06,143
+Sotto vedi i punti con attività nell'ultima visita, gli avvistamenti degli ultimi trenta giorni e le non conformità aperte.
+
+68
+00:05:06,703 --> 00:05:10,083
+Il grafico mostra le catture mese per mese nell'ultimo anno.
+
+69
+00:05:10,083 --> 00:05:17,683
+La tabella accanto elenca i punti con più attività: se un punto torna sempre, lì c'è un problema da risolvere con la ditta.
+
+70
+00:05:18,263 --> 00:05:25,043
+In alto, il registro in pi di effe raccoglie tutte le visite, da tenere con il manuale HACCP.
+
+71
+00:05:26,537 --> 00:05:27,177
+Ricapitoliamo.
+
+72
+00:05:27,567 --> 00:05:37,157
+Hai inserito il contratto con la ditta, aggiunto un punto sulla planimetria, registrato una visita con gli esiti e il report, e segnalato un avvistamento dal telefono.
+
+73
+00:05:37,457 --> 00:05:45,637
+Nel prossimo video vediamo l'amministrazione e l'assistenza: il registro delle operazioni, gli allegati, i ticket e il tuo profilo.
+
+74
+00:05:46,137 --> 00:05:47,517
+Ci vediamo nel prossimo video.
+

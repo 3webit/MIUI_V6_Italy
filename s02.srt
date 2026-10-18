@@ -1,0 +1,216 @@
+1
+00:00:00,500 --> 00:00:02,530
+In questo video carichiamo i fornitori.
+
+2
+00:00:03,040 --> 00:00:15,420
+Vediamo la scheda fornitore campo per campo, come cercare nell'elenco, come preparare le categorie e i marchi che userai nelle schede, e perché un fornitore o una voce si disattiva invece di eliminarla.
+
+3
+00:00:19,540 --> 00:00:21,890
+Nel gruppo anagrafiche apri «Fornitori».
+
+4
+00:00:22,540 --> 00:00:24,380
+Qui c'è chi ti vende le materie prime.
+
+5
+00:00:24,840 --> 00:00:30,240
+È il passo indietro della tracciabilità: per ogni lotto che usi devi sapere da chi l'hai ricevuto.
+
+6
+00:00:30,620 --> 00:00:38,080
+Per ogni fornitore l'elenco mostra la partita IVA, la città, un contatto, quante fatture hai registrato e lo stato.
+
+7
+00:00:38,660 --> 00:00:43,900
+Nel campo «Cerca» scrivi una parte della ragione sociale, della partita IVA o della città.
+
+8
+00:00:44,340 --> 00:00:46,140
+L'elenco si aggiorna mentre scrivi.
+
+9
+00:00:46,680 --> 00:00:52,020
+Con il menu «Stato» vedi tutti i fornitori, solo quelli attivi o solo quelli disattivati.
+
+10
+00:00:52,460 --> 00:01:00,340
+Se accanto a un nome leggi «Produzione interna», quella è la tua azienda: Tracesyo la aggiunge da sola quando registri una produzione interna.
+
+11
+00:01:00,780 --> 00:01:02,720
+Un clic sul nome apre la scheda.
+
+12
+00:01:06,873 --> 00:01:09,693
+Per aggiungere un fornitore premi «Nuovo fornitore».
+
+13
+00:01:10,253 --> 00:01:12,933
+Il primo riquadro contiene i dati identificativi.
+
+14
+00:01:13,293 --> 00:01:15,853
+L'unico campo obbligatorio è «Ragione sociale».
+
+15
+00:01:16,413 --> 00:01:24,873
+Nella «Partita IVA» scrivi anche il prefisso della nazione, le lettere i e ti per l'Italia, esattamente come compare nella fattura elettronica.
+
+16
+00:01:25,273 --> 00:01:32,093
+È importante: quando importi una fattura, Tracesyo riconosce il fornitore dalla partita IVA, oppure dal «Codice fiscale».
+
+17
+00:01:32,573 --> 00:01:35,173
+Se i dati coincidono, la fattura si abbina da sola.
+
+18
+00:01:35,753 --> 00:01:44,653
+Il campo «Bollo CE stabilimento» serve quando il fornitore è uno stabilimento riconosciuto, per esempio un caseificio o un'azienda che confeziona uova.
+
+19
+00:01:45,133 --> 00:01:48,333
+Copia il codice dal bollo ovale stampato sulle confezioni.
+
+20
+00:01:48,753 --> 00:01:53,473
+Lo ritrovi poi nella scheda del fornitore, quando ti serve dimostrare da dove arriva la merce.
+
+21
+00:01:57,573 --> 00:02:05,413
+Il secondo riquadro è «Sede e contatti»: indirizzo, CAP, città, provincia, nazione, email e telefono.
+
+22
+00:02:05,893 --> 00:02:08,493
+La sigla della provincia diventa maiuscola da sola.
+
+23
+00:02:08,993 --> 00:02:14,053
+Nelle «Note» scrivi quello che serve a chi lavora con te, per esempio i giorni di consegna.
+
+24
+00:02:14,533 --> 00:02:17,273
+La casella «Fornitore attivo» è già spuntata.
+
+25
+00:02:17,693 --> 00:02:19,063
+Premi «Crea fornitore».
+
+26
+00:02:19,573 --> 00:02:20,533
+Si apre la scheda.
+
+27
+00:02:20,893 --> 00:02:29,633
+A sinistra c'è l'anagrafica; a destra le ultime fatture; sotto, i lotti ricevuti da questo fornitore, con quantità, residuo e scadenza.
+
+28
+00:02:29,633 --> 00:02:33,753
+Per un fornitore nuovo sono vuote: si riempiono da sole con le fatture.
+
+29
+00:02:34,253 --> 00:02:45,853
+Il regolamento CE centosettantotto del duemiladue, articolo diciotto, chiede proprio questo: sapere chi ti ha fornito ogni materia prima, e ritrovarlo subito in caso di controllo o di richiamo.
+
+30
+00:02:49,773 --> 00:02:54,273
+Prima di caricare gli ingredienti, prepara le liste che compaiono nei menu a tendina.
+
+31
+00:02:54,753 --> 00:02:58,173
+Apri «Ingredienti» e premi «Categorie ingredienti».
+
+32
+00:02:58,453 --> 00:03:03,333
+Trovi già le tue voci e una serie di categorie alimentari standard, aggiunte in automatico.
+
+33
+00:03:03,713 --> 00:03:06,333
+Nel riquadro «Nuova voce» scrivi il nome.
+
+34
+00:03:06,873 --> 00:03:11,153
+Nel campo «Ordine», un numero più basso porta la voce più in alto nel menu.
+
+35
+00:03:11,793 --> 00:03:12,433
+Premi «Aggiungi».
+
+36
+00:03:13,073 --> 00:03:17,093
+Nelle «Voci esistenti» puoi correggere un nome e premere «Salva».
+
+37
+00:03:17,553 --> 00:03:20,093
+Le schede che usavano quel nome si aggiornano da sole.
+
+38
+00:03:20,553 --> 00:03:23,993
+La colonna «In uso» dice quante schede usano la voce.
+
+39
+00:03:24,393 --> 00:03:35,353
+Allo stesso modo funzionano i «Marchi ingredienti», che apri dal collegamento sotto il campo «Marchio» della scheda ingrediente, e le «Categorie prodotti», dal pulsante nella pagina dei prodotti.
+
+40
+00:03:35,753 --> 00:03:39,393
+Liste uguali per tutti tengono in ordine l'elenco e i filtri.
+
+41
+00:03:43,440 --> 00:03:52,000
+Una voce in uso non si può eliminare: il pulsante «Elimina» compare solo quando la colonna «In uso» è a zero, e solo all'amministratore.
+
+42
+00:03:52,400 --> 00:03:56,800
+Se una voce non ti serve più, togli la spunta da «Attiva» e premi «Salva».
+
+43
+00:03:57,220 --> 00:04:00,380
+Sparisce dal menu, ma le schede che la usavano la conservano.
+
+44
+00:04:00,780 --> 00:04:02,660
+Per i fornitori vale la stessa regola.
+
+45
+00:04:02,660 --> 00:04:09,390
+Apri la scheda, premi «Modifica», togli la spunta da «Fornitore attivo» e premi «Salva modifiche».
+
+46
+00:04:09,840 --> 00:04:14,700
+Il fornitore resta in archivio, con le sue fatture e i suoi lotti, ma non viene più proposto.
+
+47
+00:04:15,140 --> 00:04:21,580
+Il pulsante «Elimina fornitore», in fondo alla pagina, funziona solo se non ci sono fatture o lotti collegati.
+
+48
+00:04:22,000 --> 00:04:24,580
+Altrimenti Tracesyo ti chiede di disattivarlo.
+
+49
+00:04:25,080 --> 00:04:31,580
+Se era solo il fornitore abituale di qualche ingrediente, l'eliminazione riesce, e in quelle schede il campo resta vuoto.
+
+50
+00:04:31,580 --> 00:04:34,840
+Così la catena della tracciabilità non si spezza mai.
+
+51
+00:04:36,707 --> 00:04:37,267
+Ricapitoliamo.
+
+52
+00:04:37,727 --> 00:04:47,647
+Hai creato un fornitore con i dati fiscali e il bollo, sai cercarlo nell'elenco, hai preparato categorie e marchi, e sai perché si disattiva invece di eliminare.
+
+53
+00:04:48,027 --> 00:04:53,947
+Nel prossimo video carichiamo gli ingredienti, con il catalogo, i valori nutrizionali e i quattordici allergeni.
+
+54
+00:04:54,247 --> 00:04:54,887
+Ci vediamo lì.
+

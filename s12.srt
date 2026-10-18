@@ -1,0 +1,252 @@
+1
+00:00:00,500 --> 00:00:02,480
+In questo video vediamo le pulizie.
+
+2
+00:00:03,040 --> 00:00:12,080
+Carichi i prodotti chimici con le schede di sicurezza, compili il piano di pulizia, spunti dal telefono le pulizie di oggi e registri anche quelle andate storte.
+
+3
+00:00:12,600 --> 00:00:15,060
+Alla fine leggiamo insieme il registro del mese.
+
+4
+00:00:19,200 --> 00:00:21,080
+Prima del piano servono i prodotti.
+
+5
+00:00:21,600 --> 00:00:25,580
+Nel gruppo autocontrollo apri «Pulizie» e premi «Prodotti».
+
+6
+00:00:26,100 --> 00:00:32,980
+A destra compili il riquadro «Nuovo prodotto»: nome, produttore e tipo, per esempio disincrostante.
+
+7
+00:00:32,980 --> 00:00:37,120
+Poi la diluizione e il tempo di contatto, come li indica l'etichetta.
+
+8
+00:00:37,700 --> 00:00:42,460
+Se è un presidio medico chirurgico o un biocida, scrivi anche il numero di registrazione.
+
+9
+00:00:43,020 --> 00:00:49,140
+Spunta «Idoneo al contatto con alimenti» solo se il produttore lo dichiara, e premi «Salva prodotto».
+
+10
+00:00:49,600 --> 00:00:53,280
+In alto compare un avviso giallo: manca la scheda di sicurezza.
+
+11
+00:00:53,660 --> 00:00:57,940
+Deve essere a disposizione di chi usa il prodotto, e va mostrata in caso di controllo.
+
+12
+00:00:57,940 --> 00:01:05,320
+Premi «Allega» sulla riga del prodotto, scegli «Scheda di sicurezza», seleziona il file e premi «Carica».
+
+13
+00:01:05,760 --> 00:01:06,780
+L'avviso sparisce.
+
+14
+00:01:07,200 --> 00:01:09,260
+I prodotti li gestisce l'amministratore.
+
+15
+00:01:09,660 --> 00:01:12,860
+Un prodotto già usato non si elimina: si disattiva.
+
+16
+00:01:17,033 --> 00:01:18,393
+Ora il piano di pulizia.
+
+17
+00:01:18,873 --> 00:01:22,753
+Premi «Piano»: è l'elenco delle operazioni previste dal tuo manuale.
+
+18
+00:01:23,093 --> 00:01:24,573
+Premi «Nuova operazione».
+
+19
+00:01:25,193 --> 00:01:28,413
+Nel nome scrivi cosa si pulisce, per esempio forno.
+
+20
+00:01:28,853 --> 00:01:34,113
+Scegli l'area, laboratorio, l'oggetto, attrezzatura, e l'operazione, pulizia.
+
+21
+00:01:34,613 --> 00:01:38,793
+Le aree le crei nelle impostazioni HACCP, alla scheda «Aree».
+
+22
+00:01:39,073 --> 00:01:47,333
+Poi la frequenza: dopo l'uso, giornaliera, settimanale, mensile, trimestrale, annuale, oppure ogni tanti giorni quanti vuoi.
+
+23
+00:01:47,693 --> 00:01:50,813
+Con settimanale compare il giorno: scegli venerdì.
+
+24
+00:01:51,193 --> 00:01:53,793
+L'orario indicativo è un promemoria per chi lavora.
+
+25
+00:01:54,173 --> 00:01:58,153
+Se la pulizia la fa una ditta, sceglila in «Eseguita da ditta esterna».
+
+26
+00:01:58,613 --> 00:02:03,973
+Scrivi la procedura, passo per passo, spunta i prodotti previsti e premi «Crea operazione».
+
+27
+00:02:04,473 --> 00:02:09,733
+Il pulsante «Piano di sanificazione» stampa il piano da allegare al manuale HACCP.
+
+28
+00:02:09,913 --> 00:02:16,233
+Il piano lo cambia solo un amministratore, e le pulizie già registrate conservano la procedura e i prodotti di allora.
+
+29
+00:02:20,433 --> 00:02:23,013
+Ogni giorno si lavora dalla pagina «Pulizie».
+
+30
+00:02:23,433 --> 00:02:25,973
+Dal telefono è comoda: aprila a fine turno.
+
+31
+00:02:26,373 --> 00:02:31,633
+In «Da fare» trovi le pulizie di oggi e quelle periodiche ancora aperte, con la scadenza.
+
+32
+00:02:32,053 --> 00:02:37,793
+Una settimanale si può fare in tutta la settimana: passato il giorno previsto risulta scaduta, in rosso.
+
+33
+00:02:38,253 --> 00:02:39,653
+Spunta le pulizie che hai fatto.
+
+34
+00:02:40,133 --> 00:02:45,433
+Controlla data e ora in «Eseguite il», e premi «Segna le spuntate come fatte».
+
+35
+00:02:45,853 --> 00:02:51,053
+Ogni pulizia diventa una riga del registro, con i prodotti del piano, il tuo nome e l'orario.
+
+36
+00:02:51,393 --> 00:02:55,273
+Le operazioni dopo l'uso, come l'impastatrice, non hanno scadenza.
+
+37
+00:02:55,273 --> 00:02:59,773
+Le trovi più in basso, e le registri con «Registra» quando le fai.
+
+38
+00:03:00,153 --> 00:03:05,253
+In fondo alla pagina vedi quelle già registrate nel periodo, con l'esito e chi le ha fatte.
+
+39
+00:03:09,267 --> 00:03:14,047
+Se qualcosa non è andato bene, non spuntare: premi «Registra» sulla riga.
+
+40
+00:03:14,267 --> 00:03:19,267
+In «Esito» scegli tra fatta, fatta con problemi e non fatta.
+
+41
+00:03:19,607 --> 00:03:25,127
+I prodotti arrivano dal piano: puoi togliere la spunta, cambiare la diluizione o aggiungerne un altro.
+
+42
+00:03:25,127 --> 00:03:30,407
+Scegli «Non fatta»: compare «Perché non è stata fatta», ed è obbligatorio.
+
+43
+00:03:30,787 --> 00:03:34,127
+Per esempio: pavimento occupato dalla consegna della farina.
+
+44
+00:03:34,467 --> 00:03:37,467
+Con un esito negativo si apre anche la non conformità.
+
+45
+00:03:37,867 --> 00:03:46,847
+La descrizione è già proposta: scegli la gravità e l'azione correttiva, ripetere la pulizia, e in «Cosa è stato fatto» scrivi cosa hai fatto.
+
+46
+00:03:47,187 --> 00:03:50,687
+Per esempio: pavimento lavato alle diciannove, dopo lo scarico.
+
+47
+00:03:50,687 --> 00:03:52,167
+Premi «Registra».
+
+48
+00:03:52,427 --> 00:03:57,327
+Così il registro racconta anche i giorni storti, e chi ti controlla vede che hai rimediato.
+
+49
+00:04:01,400 --> 00:04:03,340
+Ora apri «Registro pulizie».
+
+50
+00:04:03,740 --> 00:04:08,380
+È il registro del mese: una riga per ogni operazione, una colonna per ogni giorno.
+
+51
+00:04:08,840 --> 00:04:15,680
+Le lettere dicono com'è andata: effe fatta, pi con problemi, enne non fatta, emme mancante.
+
+52
+00:04:16,040 --> 00:04:21,100
+Il punto esclamativo segna una registrazione inserita in ritardo, la erre una rettifica.
+
+53
+00:04:21,100 --> 00:04:23,220
+I giorni di chiusura sono in grigio.
+
+54
+00:04:23,560 --> 00:04:26,640
+Passa il mouse su una lettera per vedere l'ora e la firma.
+
+55
+00:04:27,000 --> 00:04:29,040
+Puoi filtrare per area e cambiare mese.
+
+56
+00:04:29,420 --> 00:04:35,360
+Una pulizia mancante si recupera dalla scheda dell'operazione, con la data vera: resta segnata in ritardo.
+
+57
+00:04:35,820 --> 00:04:39,600
+Chi ha registrato una pulizia può correggerne le note entro la giornata.
+
+58
+00:04:39,980 --> 00:04:44,580
+Per cambiare l'esito serve una rettifica, con il motivo: non si cancella niente.
+
+59
+00:04:44,980 --> 00:04:50,870
+Il pulsante pi di effe stampa il registro del mese, da tenere con il manuale HACCP.
+
+60
+00:04:52,367 --> 00:04:52,887
+Ricapitoliamo.
+
+61
+00:04:53,327 --> 00:05:05,127
+Hai caricato i prodotti con le schede di sicurezza, compilato il piano di pulizia, spuntato le pulizie dal telefono, registrato una pulizia non fatta con la sua non conformità e letto il registro del mese.
+
+62
+00:05:05,487 --> 00:05:12,627
+Nel prossimo video passiamo al controllo degli infestanti: la ditta, la planimetria con i punti, le visite e gli avvistamenti.
+
+63
+00:05:12,927 --> 00:05:14,247
+Ci vediamo nel prossimo video.
+

@@ -1,0 +1,232 @@
+1
+00:00:00,500 --> 00:00:02,730
+Benvenuto nel manuale video di Tracesyo.
+
+2
+00:00:03,280 --> 00:00:12,720
+In questo primo video configuriamo l'azienda e facciamo i primi passi: l'accesso, il cruscotto, i dati aziendali, il formato del codice lotto e gli utenti.
+
+3
+00:00:13,300 --> 00:00:16,640
+Alla fine sarai pronto per caricare fornitori e ingredienti.
+
+4
+00:00:20,840 --> 00:00:25,070
+Tracesyo si usa dal browser, sul computer, sul tablet o sul telefono.
+
+5
+00:00:25,430 --> 00:00:26,810
+Non c'è niente da installare.
+
+6
+00:00:27,350 --> 00:00:32,870
+Apri l'indirizzo che hai ricevuto con l'attivazione, scrivi l'email e la password, e premi «Accedi».
+
+7
+00:00:32,870 --> 00:00:37,630
+Sul computer che usi sempre puoi spuntare «Ricordami su questo dispositivo».
+
+8
+00:00:38,210 --> 00:00:43,570
+Se hai dimenticato la password, il collegamento sotto il pulsante ti manda un'email per sceglierne una nuova.
+
+9
+00:00:44,130 --> 00:00:46,670
+Ogni persona dell'azienda ha il proprio accesso.
+
+10
+00:00:47,110 --> 00:00:51,790
+Non condividere la password: ogni operazione viene registrata con il nome di chi la fa.
+
+11
+00:00:55,973 --> 00:00:58,193
+Dopo l'accesso, a sinistra c'è il menu.
+
+12
+00:00:58,733 --> 00:01:06,053
+Le voci sono divise in gruppi: anagrafiche, acquisti, produzione, autocontrollo, controllo e amministrazione.
+
+13
+00:01:06,383 --> 00:01:08,213
+In fondo trovi l'assistenza.
+
+14
+00:01:08,653 --> 00:01:11,453
+Vedi solo le voci che il tuo ruolo ti permette di usare.
+
+15
+00:01:11,973 --> 00:01:20,013
+In alto, a destra, ci sono il nome dell'azienda, il tuo nome con il ruolo, e i pulsanti per gli utenti, il tuo profilo e l'uscita.
+
+16
+00:01:20,593 --> 00:01:23,733
+Con questo pulsante passi dal tema scuro al tema chiaro.
+
+17
+00:01:24,053 --> 00:01:26,573
+La scelta resta salvata su questo dispositivo.
+
+18
+00:01:27,033 --> 00:01:31,733
+Dal telefono le stesse voci compaiono in cima alla pagina, e si scorre come in un'app.
+
+19
+00:01:35,973 --> 00:01:37,713
+La prima pagina è il cruscotto.
+
+20
+00:01:37,713 --> 00:01:40,233
+Ti dice a colpo d'occhio come sta il laboratorio.
+
+21
+00:01:40,713 --> 00:01:50,593
+In alto trovi quattro numeri: i lotti di materia prima a magazzino, le produzioni aperte, le fatture ancora da confermare e i lotti che scadono nei prossimi trenta giorni.
+
+22
+00:01:50,953 --> 00:01:58,233
+Sotto ci sono due grafici: quanti lotti hai prodotto negli ultimi sei mesi, e quante materie prime scadono settimana per settimana.
+
+23
+00:01:58,693 --> 00:02:02,333
+Più in basso vedi i lotti in scadenza e gli ultimi lotti prodotti.
+
+24
+00:02:02,853 --> 00:02:05,333
+Un clic sul codice apre la scheda del lotto.
+
+25
+00:02:05,333 --> 00:02:12,113
+I due pulsanti in alto sono le scorciatoie di ogni giorno: «Importa fattura» e «Nuovo lotto di produzione».
+
+26
+00:02:12,533 --> 00:02:13,893
+Li vedremo nei prossimi video.
+
+27
+00:02:17,973 --> 00:02:20,333
+Prima di tutto completa i dati dell'azienda.
+
+28
+00:02:20,773 --> 00:02:23,553
+Nel gruppo amministrazione apri «Impostazioni».
+
+29
+00:02:24,033 --> 00:02:25,853
+Nel primo riquadro carichi il logo.
+
+30
+00:02:26,293 --> 00:02:33,133
+Va bene un'immagine fino a un megabyte; il formato migliore è l'SVG, perché resta nitido a ogni dimensione.
+
+31
+00:02:33,493 --> 00:02:34,853
+Scegli il file dal computer.
+
+32
+00:02:35,473 --> 00:02:45,093
+Sotto ci sono i dati dell'azienda: ragione sociale, indirizzo, CAP e città, partita IVA, bollo CE dello stabilimento, email e telefono.
+
+33
+00:02:45,573 --> 00:02:50,133
+Intestano la scheda di tracciabilità, i registri e, se lo vuoi, le etichette.
+
+34
+00:02:50,653 --> 00:02:52,233
+Premi «Salva impostazioni».
+
+35
+00:02:52,653 --> 00:02:59,353
+Ora vedi il logo in due anteprime, su fondo chiaro e su fondo scuro, così controlli che si legga in tutti e due i casi.
+
+36
+00:02:59,913 --> 00:03:03,593
+Ed eccolo in alto nel menu; comparirà anche nella pagina di accesso.
+
+37
+00:03:03,973 --> 00:03:06,973
+Queste impostazioni le può cambiare solo un amministratore.
+
+38
+00:03:10,607 --> 00:03:17,407
+Nella stessa pagina, il riquadro «Lotti di produzione» stabilisce come si compone il codice dei tuoi lotti.
+
+39
+00:03:17,807 --> 00:03:27,427
+Se lo lasci vuoto, vale il formato predefinito: la lettera elle, l'anno a due cifre, il giorno dell'anno, un trattino e un numero progressivo di quattro cifre.
+
+40
+00:03:27,867 --> 00:03:32,107
+Per esempio, l'undici ottobre è il giorno duecentottantaquattro dell'anno.
+
+41
+00:03:32,507 --> 00:03:41,927
+Il quarto lotto prodotto nel duemilaventisei, quel giorno, diventa: elle, ventisei, duecentottantaquattro, trattino, zero zero zero quattro.
+
+42
+00:03:42,367 --> 00:03:53,907
+Puoi comporre il formato come preferisci, con i segnaposto scritti sotto il campo: l'anno a due o a quattro cifre, il mese, il giorno, il giorno dell'anno, il progressivo e il codice del prodotto.
+
+43
+00:03:54,347 --> 00:03:58,847
+Il progressivo è obbligatorio, è della tua azienda e riparte da uno ogni anno.
+
+44
+00:03:59,307 --> 00:04:04,847
+Decidi il formato prima del primo lotto di produzione: così tutti i codici seguono la stessa regola.
+
+45
+00:04:08,507 --> 00:04:11,227
+Ora aggiungi le persone che lavorano con te.
+
+46
+00:04:11,627 --> 00:04:15,447
+Premi «Utenti», nella barra in alto, e poi «Nuovo utente».
+
+47
+00:04:15,927 --> 00:04:21,647
+Scrivi nome ed email, scegli il ruolo, e imposta una password iniziale, da scrivere due volte.
+
+48
+00:04:22,107 --> 00:04:23,527
+Premi «Aggiungi utente».
+
+49
+00:04:24,067 --> 00:04:25,027
+I ruoli sono tre.
+
+50
+00:04:25,467 --> 00:04:30,767
+L'amministratore ha accesso completo, comprese le eliminazioni, gli utenti e le impostazioni.
+
+51
+00:04:31,267 --> 00:04:36,247
+L'operatore registra e modifica anagrafiche, acquisti, produzione ed etichette.
+
+52
+00:04:36,247 --> 00:04:41,967
+Con la sola lettura si consulta senza modificare: è il ruolo giusto, per esempio, per il consulente.
+
+53
+00:04:42,407 --> 00:04:49,147
+Ogni modifica finisce nel registro delle operazioni, che trovi nel gruppo controllo, con il nome di chi l'ha fatta e l'orario.
+
+54
+00:04:50,907 --> 00:04:51,427
+Ricapitoliamo.
+
+55
+00:04:51,847 --> 00:04:59,527
+Hai fatto l'accesso, conosci il menu e il cruscotto, hai completato i dati dell'azienda, scelto il formato dei lotti e creato gli utenti.
+
+56
+00:04:59,927 --> 00:05:03,787
+Nel prossimo video carichiamo i fornitori, con le categorie e i marchi.
+
+57
+00:05:04,167 --> 00:05:07,877
+Se ti serve aiuto, apri un ticket di assistenza direttamente da Tracesyo.
+
+58
+00:05:08,307 --> 00:05:09,627
+Ci vediamo nel prossimo video.
+

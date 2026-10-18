@@ -1,0 +1,296 @@
+1
+00:00:00,500 --> 00:00:03,580
+In questo video impostiamo il registro delle temperature.
+
+2
+00:00:04,180 --> 00:00:08,520
+Vedrai le impostazioni HACCP, il cruscotto e gli apparecchi del freddo.
+
+3
+00:00:08,940 --> 00:00:16,420
+Poi rileviamo le temperature dal telefono, gestiamo un valore fuori limite, un ritardo e un fermo, e leggiamo il registro del mese.
+
+4
+00:00:20,610 --> 00:00:22,090
+Si parte dalle impostazioni.
+
+5
+00:00:22,550 --> 00:00:26,380
+Nel gruppo autocontrollo apri «Impostazioni HACCP».
+
+6
+00:00:26,590 --> 00:00:28,090
+Le vede solo l'amministratore.
+
+7
+00:00:28,530 --> 00:00:37,950
+Nella scheda «Generali» scrivi il nome del responsabile e spunta la chiusura settimanale: nei giorni chiusi non è attesa nessuna rilevazione, quindi non manca niente.
+
+8
+00:00:38,410 --> 00:00:42,030
+Qui c'è anche la soglia del ritardo: di base, centoventi minuti.
+
+9
+00:00:42,400 --> 00:00:43,870
+Premi «Salva impostazioni».
+
+10
+00:00:44,390 --> 00:00:49,310
+Nella scheda «Aree» ci sono i locali: laboratorio, magazzino, punto vendita.
+
+11
+00:00:49,810 --> 00:00:52,230
+In «Ditte di servizio» c'è il frigorista.
+
+12
+00:00:52,710 --> 00:00:57,570
+In «Azioni correttive» trovi il catalogo delle azioni, con quelle che richiedono un ricontrollo.
+
+13
+00:00:58,170 --> 00:01:00,330
+Ora apri «Cruscotto autocontrollo».
+
+14
+00:01:00,330 --> 00:01:03,170
+In alto ci sono le non conformità aperte.
+
+15
+00:01:03,570 --> 00:01:09,350
+Nel riquadro delle temperature vedi le rilevazioni dovute adesso e quelle mancanti negli ultimi sette giorni.
+
+16
+00:01:13,410 --> 00:01:18,110
+Gli apparecchi sono frigoriferi, celle, congelatori, abbattitori e vetrine.
+
+17
+00:01:18,710 --> 00:01:26,390
+Apri «Registro temperature» e premi «Apparecchi»: per ciascuno vedi codice, tipo, area, limiti e orari.
+
+18
+00:01:26,870 --> 00:01:28,270
+Premi «Nuovo apparecchio».
+
+19
+00:01:28,710 --> 00:01:32,990
+Scrivi il codice, gi due, e il nome: congelatore a pozzetto.
+
+20
+00:01:32,990 --> 00:01:35,290
+Come tipo scegli «Congelatore».
+
+21
+00:01:35,810 --> 00:01:40,210
+Tracesyo propone i limiti tipici, meno venticinque e meno diciotto gradi.
+
+22
+00:01:40,510 --> 00:01:44,440
+È solo una proposta: valgono i limiti del tuo manuale HACCP.
+
+23
+00:01:44,630 --> 00:01:49,670
+Scegli l'area, il magazzino, e scrivi il contenuto: basi per torte surgelate.
+
+24
+00:01:50,090 --> 00:01:52,630
+Come tecnico di riferimento indica il frigorista.
+
+25
+00:01:53,150 --> 00:01:59,180
+Poi scegli quante rilevazioni al giorno, da una a quattro, e a che ora: qui una, alle diciotto.
+
+26
+00:01:59,630 --> 00:02:06,810
+La tolleranza è il margine intorno a ogni orario: una lettura dentro il margine copre l'orario, le altre restano come extra.
+
+27
+00:02:07,230 --> 00:02:08,730
+Premi «Crea apparecchio».
+
+28
+00:02:12,843 --> 00:02:16,203
+Ogni giorno la rilevazione si fa dal telefono, davanti al frigo.
+
+29
+00:02:16,663 --> 00:02:17,963
+Apri «Rileva temperature».
+
+30
+00:02:18,683 --> 00:02:23,583
+Per ogni apparecchio vedi i limiti, l'area e, in giallo, l'orario dovuto adesso.
+
+31
+00:02:24,063 --> 00:02:28,143
+Un orario di oggi passato senza lettura compare in rosso, tra i mancanti.
+
+32
+00:02:28,643 --> 00:02:32,463
+Leggi il termometro del frigo latticini e scrivi il valore: tre virgola quattro.
+
+33
+00:02:32,763 --> 00:02:36,403
+Per i valori sotto zero usa il trattino come segno meno.
+
+34
+00:02:36,793 --> 00:02:37,923
+Premi «Registra».
+
+35
+00:02:38,383 --> 00:02:43,563
+L'esito compare subito, scritto e colorato: nei limiti, con l'ora e la temperatura.
+
+36
+00:02:44,123 --> 00:02:48,103
+La rilevazione è firmata con il tuo nome e conserva i limiti di quel momento.
+
+37
+00:02:48,523 --> 00:02:52,623
+Se domani li cambi, le letture passate restano valutate con quelli di allora.
+
+38
+00:02:56,877 --> 00:02:58,317
+Ora la vetrina del banco.
+
+39
+00:02:58,737 --> 00:03:02,857
+Il termometro segna sei virgola otto gradi, ma il limite massimo è quattro.
+
+40
+00:03:03,057 --> 00:03:06,657
+Scrivi sei virgola otto e premi «Registra».
+
+41
+00:03:07,147 --> 00:03:10,387
+Tracesyo non salva ancora: apre la non conformità.
+
+42
+00:03:10,837 --> 00:03:19,237
+Una lettura fuori limite si salva solo insieme alla non conformità e alla prima azione correttiva, perché per la catena del freddo conta anche cosa hai fatto.
+
+43
+00:03:19,777 --> 00:03:21,297
+La descrizione è già scritta.
+
+44
+00:03:21,817 --> 00:03:26,397
+Lascia la gravità media e scegli l'azione: «Spostare la merce in altro frigo».
+
+45
+00:03:26,837 --> 00:03:31,697
+In «Cosa è stato fatto» scrivi: torte spostate nel frigo effe due.
+
+46
+00:03:32,097 --> 00:03:34,897
+Premi «Registra fuori limite e non conformità».
+
+47
+00:03:35,297 --> 00:03:37,097
+Questa azione richiede un ricontrollo.
+
+48
+00:03:37,677 --> 00:03:45,397
+Quando la vetrina è tornata in temperatura, rileggila: scrivi tre virgola due, spunta «ricontrollo» e premi «Registra».
+
+49
+00:03:45,757 --> 00:03:49,137
+Il ricontrollo nei limiti chiude l'attesa sulla non conformità.
+
+50
+00:03:53,210 --> 00:03:56,710
+Ogni apparecchio ha la sua scheda: nel registro, tocca il nome.
+
+51
+00:03:57,070 --> 00:04:01,390
+Trovi l'andamento degli ultimi trenta giorni, con la fascia dei limiti, e lo storico.
+
+52
+00:04:01,390 --> 00:04:05,530
+Ieri sera la lettura del frigo effe due è rimasta su un foglio di carta.
+
+53
+00:04:05,990 --> 00:04:14,580
+Nel riquadro «Nuova rilevazione» scrivi tre virgola sei e, in «Rilevata il», la data e l'ora vere: ieri alle diciotto.
+
+54
+00:04:15,070 --> 00:04:16,070
+Premi «Registra».
+
+55
+00:04:16,410 --> 00:04:19,610
+L'orario risulta coperto, ma con il segno «in ritardo».
+
+56
+00:04:20,090 --> 00:04:23,370
+Il registro dice sempre quando il dato è stato inserito davvero.
+
+57
+00:04:23,770 --> 00:04:31,810
+Se un apparecchio è spento, in manutenzione o vuoto, usa il riquadro «Fuori servizio»: l'inizio, la fine se la sai, e il motivo.
+
+58
+00:04:32,210 --> 00:04:34,110
+Premi «Registra fuori servizio».
+
+59
+00:04:34,410 --> 00:04:36,970
+In quel periodo non è attesa nessuna rilevazione.
+
+60
+00:04:37,310 --> 00:04:39,950
+Quando riparte, premi «Rimetti in servizio».
+
+61
+00:04:43,943 --> 00:04:45,223
+Infine il registro.
+
+62
+00:04:45,583 --> 00:04:46,943
+Apri «Registro temperature».
+
+63
+00:04:47,643 --> 00:04:53,983
+Per ogni apparecchio c'è una griglia: i giorni del mese, una colonna per ogni orario e una per gli extra e le note.
+
+64
+00:04:54,403 --> 00:04:55,903
+In ogni casella c'è il valore.
+
+65
+00:04:56,263 --> 00:05:02,543
+L'asterisco segna il fuori limite, la erre una rettifica, il punto esclamativo un inserimento in ritardo.
+
+66
+00:05:02,943 --> 00:05:07,093
+In rosso trovi le rilevazioni mancanti: orari passati senza lettura.
+
+67
+00:05:07,563 --> 00:05:12,183
+Le domeniche risultano chiuse, e i fermi fuori servizio: lì non manca niente.
+
+68
+00:05:12,563 --> 00:05:17,003
+In alto, per ogni apparecchio, il conto dei mancanti e dei fuori limite del mese.
+
+69
+00:05:17,363 --> 00:05:21,783
+Con la freccia torni al mese precedente, e con il filtro scegli un solo apparecchio.
+
+70
+00:05:22,143 --> 00:05:25,183
+Il pulsante «pi di effe» lo vediamo nel prossimo video.
+
+71
+00:05:26,443 --> 00:05:27,583
+Ricapitoliamo.
+
+72
+00:05:27,833 --> 00:05:40,543
+Hai impostato aree, ditte e azioni correttive, creato un apparecchio con limiti e orari, rilevato le temperature dal telefono, gestito un fuori limite con il suo ricontrollo, un ritardo e un fermo.
+
+73
+00:05:41,123 --> 00:05:47,423
+Nel prossimo video vediamo le non conformità, le correzioni, la vidimazione e il registro in pi di effe.
+
+74
+00:05:47,683 --> 00:05:49,003
+Ci vediamo nel prossimo video.
+

@@ -1,0 +1,248 @@
+1
+00:00:00,500 --> 00:00:03,480
+In questo video creiamo un prodotto con la sua ricetta.
+
+2
+00:00:03,980 --> 00:00:13,450
+Vedrai le categorie, la scheda prodotto, le righe della ricetta, gli allergeni dichiarati ed ereditati, i valori nutrizionali calcolati e i semilavorati.
+
+3
+00:00:14,040 --> 00:00:16,560
+Alla fine avrai un prodotto pronto da produrre.
+
+4
+00:00:20,710 --> 00:00:23,130
+Nel gruppo anagrafiche apri «Prodotti».
+
+5
+00:00:23,540 --> 00:00:31,150
+Nell'elenco vedi il codice, la denominazione, quanti ingredienti ha la ricetta, quanti lotti hai prodotto e la shelf life.
+
+6
+00:00:31,510 --> 00:00:36,070
+L'asterisco accanto al nome ti dice che la ricetta contiene ingredienti surgelati.
+
+7
+00:00:36,590 --> 00:00:39,190
+Prima di creare un prodotto, controlla le categorie.
+
+8
+00:00:39,690 --> 00:00:41,390
+Premi «Categorie prodotti».
+
+9
+00:00:41,950 --> 00:00:47,470
+Nel riquadro «Nuova voce» scrivi il nome, per esempio Crostate, e premi «Aggiungi».
+
+10
+00:00:47,890 --> 00:00:54,010
+Il campo «Ordine» decide la posizione nel menu a tendina: numero più basso, posizione più in alto.
+
+11
+00:00:54,510 --> 00:00:57,970
+Una categoria già usata non si elimina, ma puoi disattivarla.
+
+12
+00:00:58,370 --> 00:00:59,930
+Premi «Torna ai prodotti».
+
+13
+00:01:03,577 --> 00:01:05,537
+Premi «Nuovo prodotto».
+
+14
+00:01:05,977 --> 00:01:12,437
+Nel riquadro «Dati prodotto» scrivi il codice: ci, erre, o, a, elle, bi.
+
+15
+00:01:12,977 --> 00:01:16,557
+Se il formato del codice lotto lo prevede, entra anche nei tuoi lotti.
+
+16
+00:01:17,017 --> 00:01:22,677
+In «Denominazione di vendita» scrivi Crostata all'albicocca: è il nome che va in etichetta.
+
+17
+00:01:23,057 --> 00:01:25,097
+Come categoria scegli Crostate.
+
+18
+00:01:25,457 --> 00:01:28,267
+In «Unità di produzione» scegli i chilogrammi.
+
+19
+00:01:28,757 --> 00:01:32,517
+È l'unità con cui registri quanto hai prodotto, e vale anche per la ricetta.
+
+20
+00:01:32,517 --> 00:01:37,237
+Nel «Peso netto» scrivi quattrocento, e accanto scegli i grammi.
+
+21
+00:01:37,657 --> 00:01:44,757
+Nel campo della shelf life, in giorni, scrivi dieci: Tracesyo la usa per calcolare la scadenza di ogni lotto prodotto.
+
+22
+00:01:45,157 --> 00:01:50,017
+Infine la «Modalità di conservazione»: conservare in luogo fresco e asciutto.
+
+23
+00:01:54,177 --> 00:01:57,017
+Sotto c'è il riquadro «Etichetta», con la ricetta.
+
+24
+00:01:57,457 --> 00:01:59,837
+Ogni riga è un ingrediente con la sua quantità.
+
+25
+00:02:00,217 --> 00:02:04,817
+La quantità è riferita a una unità di prodotto: qui, a un chilogrammo di crostata.
+
+26
+00:02:04,817 --> 00:02:13,017
+Nella prima riga scegli la farina di frumento tipo zero zero e scrivi zero virgola trentacinque, cioè trecentocinquanta grammi.
+
+27
+00:02:13,357 --> 00:02:15,477
+Accanto vedi l'unità dell'ingrediente.
+
+28
+00:02:15,937 --> 00:02:25,197
+Premi «Aggiungi ingrediente» per ogni nuova riga: burro zero virgola quindici, zucchero zero virgola dodici, uova zero virgola zero otto.
+
+29
+00:02:25,617 --> 00:02:27,757
+La confettura non è ancora in anagrafica.
+
+30
+00:02:28,097 --> 00:02:32,317
+Premi il più accanto a «Ingredienti»: si apre «Nuovo ingrediente».
+
+31
+00:02:32,317 --> 00:02:39,457
+Scrivi il nome, confettura di albicocche, poi l'unità, il costo e i valori nutrizionali della scheda tecnica.
+
+32
+00:02:39,717 --> 00:02:41,957
+Premi «Crea e aggiungi alla ricetta».
+
+33
+00:02:42,397 --> 00:02:44,327
+Ora scrivi zero virgola trenta.
+
+34
+00:02:44,757 --> 00:02:46,357
+Con il cestino togli una riga.
+
+35
+00:02:50,477 --> 00:02:55,237
+Gli allergeni non si scrivono a mano su ogni prodotto: si ereditano dagli ingredienti.
+
+36
+00:02:55,477 --> 00:02:59,917
+Farina, burro e uova hanno già i loro allergeni nella scheda ingrediente.
+
+37
+00:03:00,477 --> 00:03:06,257
+Glutine, latte e uova passano da soli alla crostata: li vedrai nella scheda, appena salvi.
+
+38
+00:03:06,737 --> 00:03:14,437
+Le caselle «Allergeni dichiarati» servono per quello che la ricetta non dice, per esempio un ingrediente che non hai caricato in anagrafica.
+
+39
+00:03:14,837 --> 00:03:19,097
+Quello che spunti qui si aggiunge agli allergeni ereditati, non li sostituisce.
+
+40
+00:03:19,477 --> 00:03:28,717
+Per questo conviene tenere aggiornate le schede ingrediente: se un fornitore cambia la composizione, correggi l'ingrediente e tutti i prodotti che lo usano si allineano.
+
+41
+00:03:29,117 --> 00:03:35,697
+In etichetta gli allergeni vanno evidenziati: lo chiede il regolamento europeo millecentosessantanove del duemilaundici.
+
+42
+00:03:39,977 --> 00:03:47,077
+Mentre scrivi le quantità, sotto la ricetta compare la tabella «Valori nutrizionali calcolati», per cento grammi di prodotto.
+
+43
+00:03:47,417 --> 00:03:54,017
+Tracesyo prende i valori dichiarati su ogni ingrediente, li pesa secondo la ricetta e li riporta a cento grammi.
+
+44
+00:03:54,437 --> 00:03:57,157
+La nostra crostata ha trecentosessantacinque chilocalorie.
+
+45
+00:03:57,917 --> 00:04:05,267
+In alto a destra del riquadro vedi le chilocalorie e il costo delle materie prime per un chilogrammo: circa tre euro e ventotto.
+
+46
+00:04:05,597 --> 00:04:14,997
+Se un ingrediente non ha valori nutrizionali, il suo nome compare in rosso sotto la tabella: completa la sua scheda, altrimenti i valori risultano più bassi del vero.
+
+47
+00:04:15,417 --> 00:04:19,437
+Gli ingredienti contati in pezzi o confezioni restano fuori dal calcolo.
+
+48
+00:04:19,797 --> 00:04:22,837
+Litri e millilitri si contano come se fossero acqua.
+
+49
+00:04:23,197 --> 00:04:31,437
+Il testo degli ingredienti per l'etichetta non si scrive qui: lo compone Tracesyo quando stampi l'etichetta di un lotto, dagli ingredienti dei lotti impiegati.
+
+50
+00:04:35,077 --> 00:04:40,657
+In fondo trovi la casella «È un semilavorato: si usa come ingrediente di altri prodotti».
+
+51
+00:04:41,037 --> 00:04:45,877
+Spuntala per una preparazione che entra in altre ricette, come una crema usata nelle torte.
+
+52
+00:04:46,317 --> 00:04:53,917
+Il prodotto diventa anche un ingrediente, con i suoi allergeni e i suoi valori, e ogni suo lotto è subito disponibile come materia prima.
+
+53
+00:04:54,237 --> 00:04:56,757
+Così la tracciabilità segue tutta la catena.
+
+54
+00:04:57,217 --> 00:04:59,157
+La crostata non è un semilavorato.
+
+55
+00:04:59,537 --> 00:05:03,137
+Lascia spuntato «Prodotto attivo» e premi «Crea prodotto».
+
+56
+00:05:03,137 --> 00:05:07,977
+Nella scheda vedi gli allergeni e la ricetta, con la giacenza di ogni ingrediente.
+
+57
+00:05:08,437 --> 00:05:11,517
+La confettura è a zero: la caricheremo con una fattura.
+
+58
+00:05:11,937 --> 00:05:14,977
+Qui puoi correggere le dosi e premere «Salva ricetta».
+
+59
+00:05:16,777 --> 00:05:17,377
+Ricapitoliamo.
+
+60
+00:05:17,817 --> 00:05:26,557
+Hai creato una categoria, compilato la scheda prodotto e la ricetta, e visto gli allergeni ereditati, i valori nutrizionali, il costo e i semilavorati.
+
+61
+00:05:26,917 --> 00:05:32,657
+Nel prossimo video importiamo le fatture elettroniche: dalle loro righe nascono i lotti di materia prima.
+
+62
+00:05:32,657 --> 00:05:34,377
+Ci vediamo nel prossimo video.
+

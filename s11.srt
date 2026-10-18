@@ -1,0 +1,252 @@
+1
+00:00:00,500 --> 00:00:03,150
+In questo video lavoriamo sulle non conformità.
+
+2
+00:00:03,620 --> 00:00:12,080
+Vedrai come si numerano, come si aggiungono le azioni correttive, compreso lo smaltimento della merce, come si chiudono e come si correggono le registrazioni.
+
+3
+00:00:12,680 --> 00:00:16,520
+Poi vidimiamo il registro, lo stampiamo e scarichiamo l'export completo.
+
+4
+00:00:20,833 --> 00:00:23,733
+Nel gruppo autocontrollo apri «Non conformità».
+
+5
+00:00:24,233 --> 00:00:31,393
+Ogni non conformità ha un numero: enne ci, l'anno e un progressivo di quattro cifre, che riparte da uno ogni anno.
+
+6
+00:00:31,773 --> 00:00:35,783
+Per esempio: enne ci, duemilaventisei, zero zero zero tre.
+
+7
+00:00:36,293 --> 00:00:43,593
+In elenco vedi quando è stata rilevata, l'origine, l'area, la gravità, quante azioni ha e se è aperta o chiusa.
+
+8
+00:00:43,973 --> 00:00:51,113
+L'origine dice da dove nasce: una rilevazione di temperatura, una pulizia, gli infestanti, oppure aperta a mano.
+
+9
+00:00:51,433 --> 00:00:57,073
+Con i filtri cerchi per numero o descrizione, per stato, origine, area e periodo.
+
+10
+00:00:57,373 --> 00:01:01,693
+Una non conformità non si cancella mai: è un documento del tuo autocontrollo.
+
+11
+00:01:05,900 --> 00:01:08,160
+Ora una non conformità aperta a mano.
+
+12
+00:01:08,540 --> 00:01:10,240
+Premi «Nuova non conformità».
+
+13
+00:01:10,680 --> 00:01:15,220
+Controlla data e ora, scegli l'area, il laboratorio, e la gravità alta.
+
+14
+00:01:15,740 --> 00:01:20,940
+Nella descrizione scrivi cosa hai trovato: una confezione di panna fresca con l'involucro gonfio.
+
+15
+00:01:21,400 --> 00:01:23,060
+La prima azione è facoltativa.
+
+16
+00:01:23,480 --> 00:01:25,370
+Premi «Registra non conformità».
+
+17
+00:01:25,800 --> 00:01:26,700
+Si apre la scheda.
+
+18
+00:01:27,040 --> 00:01:30,800
+In «Aggiungi azione correttiva» scegli «Smaltire la merce».
+
+19
+00:01:31,180 --> 00:01:37,100
+Premi «Aggiungi lotto da scaricare», poi scegli l'ingrediente, il lotto e la quantità: un litro.
+
+20
+00:01:37,480 --> 00:01:40,260
+Scrivi la descrizione e premi «Registra azione».
+
+21
+00:01:40,720 --> 00:01:47,880
+Lo smaltimento scala il magazzino: sul lotto nasce una rettifica in uscita, con il numero della non conformità come giustificativo.
+
+22
+00:01:48,280 --> 00:01:50,020
+La ritrovi nei movimenti della panna.
+
+23
+00:01:50,380 --> 00:01:52,160
+Così la giacenza resta vera.
+
+24
+00:01:56,167 --> 00:01:59,627
+Torniamo alla non conformità della vetrina, quella del video precedente.
+
+25
+00:02:00,067 --> 00:02:03,727
+L'azione «Spostare la merce in altro frigo» richiedeva un ricontrollo.
+
+26
+00:02:04,267 --> 00:02:06,367
+Il segno verde dice quando è stato fatto.
+
+27
+00:02:06,847 --> 00:02:13,567
+Per le temperature, il ricontrollo è la lettura nei limiti segnata come ricontrollo: lo registra il programma, da solo.
+
+28
+00:02:13,967 --> 00:02:18,447
+Per le altre non conformità premi «Ricontrollo eseguito», con data e ora.
+
+29
+00:02:18,887 --> 00:02:22,427
+Finché un ricontrollo è in sospeso, la non conformità non si chiude.
+
+30
+00:02:22,727 --> 00:02:24,347
+La chiude solo l'amministratore.
+
+31
+00:02:24,747 --> 00:02:29,227
+Nel riquadro «Chiusura» scrivi le note: la verifica dell'efficacia delle azioni.
+
+32
+00:02:29,647 --> 00:02:32,187
+Premi «Chiudi non conformità» e conferma.
+
+33
+00:02:32,567 --> 00:02:38,427
+La chiusura porta nome, data e ora, ed è definitiva: da qui la scheda non si modifica più.
+
+34
+00:02:42,500 --> 00:02:43,980
+Gli errori di battitura capitano.
+
+35
+00:02:44,340 --> 00:02:45,680
+Le regole sono semplici.
+
+36
+00:02:45,940 --> 00:02:53,720
+Fino alla fine della giornata, chi ha fatto la registrazione la corregge direttamente: nella scheda dell'apparecchio, premi «Correggi».
+
+37
+00:02:54,180 --> 00:02:58,120
+Lo stesso vale per una non conformità ancora aperta, dalla sua scheda.
+
+38
+00:02:58,580 --> 00:03:01,060
+Dopo quella giornata si passa dalla rettifica.
+
+39
+00:03:01,530 --> 00:03:08,560
+Premi «Rettifica», scrivi il valore giusto e il motivo, che è obbligatorio, poi premi «Registra rettifica».
+
+40
+00:03:09,060 --> 00:03:15,680
+La versione originale non sparisce: resta barrata e segnata come rettificata, e la nuova porta il motivo.
+
+41
+00:03:16,140 --> 00:03:24,450
+Se una lettura non andava fatta, premi «Annulla», scrivi il motivo e premi «Annulla la rilevazione»: resta a registro come annullata.
+
+42
+00:03:24,940 --> 00:03:30,540
+Niente si cancella, e ogni passaggio finisce nel registro delle operazioni, con nome e orario.
+
+43
+00:03:34,667 --> 00:03:38,127
+Molti manuali chiedono che il responsabile vidimi i registri.
+
+44
+00:03:38,567 --> 00:03:46,187
+In «Impostazioni HACCP», scheda «Generali», scegli la vidimazione dei registri: settimanale o mensile.
+
+45
+00:03:46,707 --> 00:03:47,087
+Salva.
+
+46
+00:03:47,087 --> 00:03:53,067
+Nel registro delle temperature compare il riquadro «Vidimazione», con i periodi conclusi da vidimare.
+
+47
+00:03:53,507 --> 00:03:55,067
+Anche il cruscotto te lo ricorda.
+
+48
+00:03:55,467 --> 00:04:00,907
+Scrivi una nota, se serve, e premi «Vidima» sul periodo dal primo al trenta settembre.
+
+49
+00:04:01,287 --> 00:04:01,807
+Conferma.
+
+50
+00:04:02,247 --> 00:04:06,147
+Da qui le rilevazioni di settembre si correggono solo con una rettifica.
+
+51
+00:04:06,607 --> 00:04:14,207
+Se devi aggiungerne una dimenticata, Tracesyo chiede il motivo dell'inserimento nel periodo vidimato, e lo conserva con la registrazione.
+
+52
+00:04:18,367 --> 00:04:20,887
+Ora il registro mensile in pi di effe.
+
+53
+00:04:21,147 --> 00:04:25,277
+Nel registro delle temperature torna a settembre e premi «pi di effe».
+
+54
+00:04:25,587 --> 00:04:34,847
+C'è una pagina per ogni apparecchio, intestata con i dati dell'azienda: limiti, orari e, giorno per giorno, il valore con le iniziali di chi l'ha rilevato.
+
+55
+00:04:35,287 --> 00:04:39,947
+Le rilevazioni mancanti sono scritte per esteso, i ritardi hanno il punto esclamativo.
+
+56
+00:04:40,407 --> 00:04:49,107
+Sotto trovi i totali, i fuori limite con il numero della non conformità, le rettifiche, e la vidimazione con lo spazio per la firma del responsabile.
+
+57
+00:04:49,587 --> 00:04:54,787
+Dal cruscotto, «Registro pi di effe» stampa tutte le non conformità con le loro azioni.
+
+58
+00:04:55,147 --> 00:05:00,347
+«Export completo» scarica un unico file compresso con tutti i registri e gli allegati.
+
+59
+00:05:00,687 --> 00:05:02,267
+Funziona anche in sola lettura.
+
+60
+00:05:04,133 --> 00:05:04,733
+Ricapitoliamo.
+
+61
+00:05:05,173 --> 00:05:17,813
+Hai visto la numerazione delle non conformità, le azioni correttive con lo smaltimento dei lotti, il ricontrollo e la chiusura firmata, le correzioni con motivo, la vidimazione, il registro mensile e l'export.
+
+62
+00:05:18,293 --> 00:05:20,373
+Nel prossimo video passiamo alle pulizie.
+
+63
+00:05:20,753 --> 00:05:22,093
+Ci vediamo nel prossimo video.
+

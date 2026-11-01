@@ -1,0 +1,396 @@
+1
+00:00:00,500 --> 00:00:01,800
+Benvenuto in Tracesyo.
+
+2
+00:00:02,140 --> 00:00:09,660
+In questo video facciamo insieme il primo avvio: l'accesso, la nuova password, l'accettazione delle condizioni e i dati dell'azienda.
+
+3
+00:00:10,240 --> 00:00:18,840
+Poi vediamo cosa serve per stampare la prima etichetta, la stampa rapida, come rintracciare un prodotto, il food cost e l'archivio dei documenti.
+
+4
+00:00:22,910 --> 00:00:28,890
+Dopo l'attivazione ricevi un'email con l'indirizzo del programma, la tua email e una password provvisoria.
+
+5
+00:00:29,370 --> 00:00:35,270
+Tracesyo si usa dal browser, sul computer, sul tablet o sul telefono, e non c'è niente da installare.
+
+6
+00:00:35,650 --> 00:00:39,190
+Scrivi l'email e la password provvisoria, e premi «Accedi».
+
+7
+00:00:40,877 --> 00:00:44,597
+Al primo accesso Tracesyo ti chiede subito di scegliere una password tua.
+
+8
+00:00:45,017 --> 00:00:47,517
+Finché non lo fai, le altre pagine restano chiuse.
+
+9
+00:00:48,017 --> 00:00:55,477
+Nel riquadro «Cambia password» scrivi la password provvisoria, poi la nuova password, di almeno otto caratteri, e ripetila.
+
+10
+00:00:55,937 --> 00:00:57,357
+Premi «Cambia password».
+
+11
+00:01:01,377 --> 00:01:03,197
+Ora le condizioni del servizio.
+
+12
+00:01:03,437 --> 00:01:06,957
+Non devi firmare né spedire nulla: fai tutto da questa pagina.
+
+13
+00:01:07,357 --> 00:01:12,697
+In cima, se al contratto manca qualche dato dell'azienda, completalo e premi «Salva i dati».
+
+14
+00:01:13,057 --> 00:01:18,697
+Sotto trovi il riepilogo: il piano, il periodo, il prezzo, il rinnovo e il recesso.
+
+15
+00:01:19,077 --> 00:01:21,757
+Scrivi la tua «Qualifica», per esempio titolare.
+
+16
+00:01:22,337 --> 00:01:30,617
+Poi leggi e spunta le tre caselle: le condizioni contrattuali, le clausole da approvare specificamente e l'accordo sul trattamento dei dati.
+
+17
+00:01:30,997 --> 00:01:32,547
+Ogni documento si apre con un clic.
+
+18
+00:01:33,943 --> 00:01:36,043
+Per confermare serve un codice.
+
+19
+00:01:36,463 --> 00:01:37,903
+Premi «Invia codice».
+
+20
+00:01:38,363 --> 00:01:41,183
+Nella tua casella email arriva un codice di sei cifre.
+
+21
+00:01:41,503 --> 00:01:44,643
+Vale dieci minuti e puoi sbagliarlo al massimo cinque volte.
+
+22
+00:01:45,123 --> 00:01:50,043
+Scrivilo nel campo «Codice ricevuto via email» e premi «Conferma e attiva».
+
+23
+00:01:50,523 --> 00:01:51,763
+L'abbonamento è attivo.
+
+24
+00:01:52,203 --> 00:01:57,363
+Ricevi per email il pi di effe del contratto, che ritrovi sempre nella pagina «Contratto».
+
+25
+00:02:01,343 --> 00:02:03,663
+Completa subito l'anagrafica della tua azienda.
+
+26
+00:02:04,123 --> 00:02:07,083
+Nel gruppo amministrazione apri «Impostazioni».
+
+27
+00:02:07,583 --> 00:02:11,303
+Carica il logo: comparirà nella pagina di accesso e in alto nel menu.
+
+28
+00:02:11,703 --> 00:02:19,043
+Controlla ragione sociale, indirizzo, partita IVA, email e telefono, e scrivi il bollo CE dello stabilimento.
+
+29
+00:02:19,543 --> 00:02:22,923
+Questi dati finiscono nelle etichette e nelle schede di tracciabilità.
+
+30
+00:02:23,343 --> 00:02:25,883
+Sotto puoi scegliere il formato del codice lotto.
+
+31
+00:02:26,183 --> 00:02:28,063
+Se lo lasci vuoto, vale quello già pronto.
+
+32
+00:02:28,063 --> 00:02:30,163
+Premi «Salva impostazioni».
+
+33
+00:02:34,277 --> 00:02:35,597
+Ora la prima etichetta.
+
+34
+00:02:36,097 --> 00:02:40,737
+Dietro un'etichetta corretta c'è una catena di dati, e conviene inserirli in quest'ordine.
+
+35
+00:02:41,177 --> 00:02:42,397
+Primo, i fornitori.
+
+36
+00:02:42,697 --> 00:02:45,497
+Secondo, gli ingredienti, con i loro allergeni.
+
+37
+00:02:45,797 --> 00:02:49,017
+Terzo, i lotti di materia prima, cioè quello che hai comprato.
+
+38
+00:02:49,457 --> 00:02:51,757
+Quarto, il prodotto, con la sua ricetta.
+
+39
+00:02:52,137 --> 00:02:53,957
+Quinto, il lotto di produzione.
+
+40
+00:02:54,257 --> 00:02:55,517
+E infine l'etichetta.
+
+41
+00:02:56,017 --> 00:02:59,417
+Sembra tanto, ma buona parte del lavoro la fanno le fatture.
+
+42
+00:03:01,077 --> 00:03:04,907
+Il modo più rapido per partire è importare le fatture dei fornitori.
+
+43
+00:03:05,427 --> 00:03:09,967
+Nel gruppo acquisti apri «Fatture acquisto» e premi «Importa da file».
+
+44
+00:03:10,627 --> 00:03:17,787
+Scegli il file ics emme elle della fattura elettronica, quello che ricevi dal Sistema di Interscambio, e premi «Importa».
+
+45
+00:03:18,227 --> 00:03:27,787
+In un attimo Tracesyo legge tutto: riconosce il fornitore dalla partita IVA, abbina le righe agli ingredienti e compila lotto e scadenza, quando il fornitore li ha scritti.
+
+46
+00:03:28,307 --> 00:03:31,437
+Controlla e premi «Conferma e genera lotti».
+
+47
+00:03:31,827 --> 00:03:35,327
+Ogni riga diventa un lotto di materia prima, pronto per la produzione.
+
+48
+00:03:35,707 --> 00:03:37,007
+Niente da ricopiare a mano.
+
+49
+00:03:38,877 --> 00:03:39,937
+Poi il prodotto.
+
+50
+00:03:40,457 --> 00:03:43,557
+Apri «Prodotti» e scegli i Biscotti alle mandorle.
+
+51
+00:03:44,037 --> 00:03:47,737
+Nella scheda ci sono peso netto, shelf life e conservazione.
+
+52
+00:03:48,197 --> 00:03:51,057
+Sotto c'è la ricetta, con le dosi di ogni ingrediente.
+
+53
+00:03:51,537 --> 00:03:55,137
+Gli allergeni non li scrivi tu: arrivano dagli ingredienti della ricetta.
+
+54
+00:03:55,577 --> 00:03:58,357
+Glutine, latte, frutta a guscio e uova.
+
+55
+00:03:58,357 --> 00:04:04,057
+Dalla ricetta Tracesyo calcola anche la tabella nutrizionale e l'elenco degli ingredienti per l'etichetta.
+
+56
+00:04:05,943 --> 00:04:06,843
+Ora produci.
+
+57
+00:04:07,283 --> 00:04:08,563
+Premi «Nuovo lotto».
+
+58
+00:04:08,943 --> 00:04:10,263
+Scrivi la quantità prodotta.
+
+59
+00:04:10,723 --> 00:04:13,463
+Il codice lotto e la scadenza si compilano da soli.
+
+60
+00:04:13,923 --> 00:04:15,563
+Premi «Scegli le materie prime».
+
+61
+00:04:16,043 --> 00:04:21,803
+Tracesyo calcola quanto serve di ogni ingrediente e propone i lotti da usare, prima quelli che scadono prima.
+
+62
+00:04:22,203 --> 00:04:25,403
+Premi «Conferma impieghi» e poi «Crea lotto».
+
+63
+00:04:25,403 --> 00:04:30,463
+Le giacenze si scalano da sole, e il lotto prodotto resta collegato a ogni materia prima.
+
+64
+00:04:32,210 --> 00:04:37,270
+Quando la produzione è finita, nella scheda del lotto premi «Completa lotto» e conferma.
+
+65
+00:04:37,850 --> 00:04:39,750
+Ora premi «Stampa etichette».
+
+66
+00:04:40,150 --> 00:04:42,310
+Scegli il modello e il numero di etichette.
+
+67
+00:04:42,710 --> 00:04:50,570
+A destra vedi l'anteprima nella misura reale: denominazione, ingredienti con gli allergeni in grassetto, lotto, scadenza e peso.
+
+68
+00:04:50,970 --> 00:04:55,430
+Premi «Apri pagina di stampa» e stampa dal browser, con la stampante che usi già.
+
+69
+00:04:59,077 --> 00:05:04,717
+A volte ti serve un'etichetta al volo, per esempio per una vendita al banco, senza un lotto di produzione.
+
+70
+00:05:05,317 --> 00:05:07,877
+In «Etichette» premi «Stampa rapida».
+
+71
+00:05:08,357 --> 00:05:10,297
+Scegli il prodotto e il numero di copie.
+
+72
+00:05:10,697 --> 00:05:15,797
+Tutto il resto lo prende dalla scheda: ingredienti, allergeni, peso e conservazione.
+
+73
+00:05:16,257 --> 00:05:19,477
+La scadenza, se la lasci vuota, la calcola dalla shelf life.
+
+74
+00:05:19,917 --> 00:05:23,097
+Controlla l'anteprima e premi «Apri pagina di stampa».
+
+75
+00:05:23,437 --> 00:05:25,337
+In pochi secondi l'etichetta è pronta.
+
+76
+00:05:29,643 --> 00:05:31,803
+Ora vediamo come rintracciare un prodotto.
+
+77
+00:05:31,803 --> 00:05:36,103
+Apri «Tracciabilità» e scrivi un codice lotto, anche solo una parte.
+
+78
+00:05:36,423 --> 00:05:44,603
+Accanto al lotto premi «Filiera a monte»: vedi le materie prime usate, il lotto del fornitore, le quantità e la fattura d'acquisto.
+
+79
+00:05:45,103 --> 00:05:50,623
+Con «Filiera a valle», partendo da una materia prima, trovi tutti i prodotti che la contengono.
+
+80
+00:05:51,003 --> 00:05:57,163
+È quello che chiede il regolamento CE centosettantotto del duemiladue: da chi hai comprato e dove è finito.
+
+81
+00:05:57,583 --> 00:05:59,983
+Per un controllo stampi la scheda completa in un clic.
+
+82
+00:06:03,777 --> 00:06:08,577
+Infine il food cost, cioè quanto ti costa davvero ogni confezione.
+
+83
+00:06:09,037 --> 00:06:12,217
+Il prezzo degli ingredienti arriva dalle fatture che hai importato.
+
+84
+00:06:12,677 --> 00:06:17,577
+Per l'energia, apri «Bollette luce e gas» e premi «Carica bolletta luce».
+
+85
+00:06:17,917 --> 00:06:21,637
+Scegli il file della bolletta elettronica e premi «Leggi la bolletta».
+
+86
+00:06:22,197 --> 00:06:25,037
+Periodo, consumo e imponibile si compilano da soli.
+
+87
+00:06:25,367 --> 00:06:26,437
+Premi «Conferma».
+
+88
+00:06:26,817 --> 00:06:30,697
+Nei «Parametri» indichi il costo orario della manodopera e il forno.
+
+89
+00:06:30,977 --> 00:06:40,397
+Apri «Costo prodotti»: per ogni prodotto vedi il costo di una confezione, ingredienti, energia, manodopera e packaging, e il prezzo con il tuo ricarico.
+
+90
+00:06:44,477 --> 00:06:45,517
+Un'ultima cosa utile.
+
+91
+00:06:45,977 --> 00:06:49,057
+Nel gruppo documenti e registri apri «Allegati».
+
+92
+00:06:49,477 --> 00:06:57,217
+Qui conservi in pi di effe tutti i documenti dell'azienda: il manuale HACCP, le procedure, le analisi, gli attestati di formazione.
+
+93
+00:06:57,677 --> 00:07:00,417
+Ogni documento ha categoria e anno di riferimento.
+
+94
+00:07:00,877 --> 00:07:05,817
+Lo ritrovi in un attimo con la ricerca, e lo apri anche dal telefono, magari proprio durante un controllo.
+
+95
+00:07:07,710 --> 00:07:08,210
+Ricapitoliamo.
+
+96
+00:07:08,550 --> 00:07:14,830
+Hai fatto il primo accesso, scelto la password, accettato le condizioni con il codice e completato i dati dell'azienda.
+
+97
+00:07:15,170 --> 00:07:21,010
+Hai visto il percorso fino all'etichetta, la stampa rapida, la tracciabilità, il food cost e gli allegati.
+
+98
+00:07:21,350 --> 00:07:24,670
+Negli altri video del manuale trovi ogni passaggio nel dettaglio.
+
+99
+00:07:24,950 --> 00:07:25,550
+Buon lavoro con Tracesyo.
+
